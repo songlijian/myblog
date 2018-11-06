@@ -1,13 +1,4 @@
 <?php
-<<<<<<< HEAD
-=======
-
-
-aadasdasd
-
-
-echo     1111;exit;
->>>>>>> 93d787b20d8d62b3386615e26c187399ea02cbb5
 /**
  * Laravel - A PHP Framework For Web Artisans
  *
