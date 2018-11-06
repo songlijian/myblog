@@ -1,5 +1,4 @@
 <?php
-echo 1111;
 /**
  * Laravel - A PHP Framework For Web Artisans
  *
